@@ -2,12 +2,7 @@
   <img src="header.svg" alt="sam sweet" width="320" />
 </p>
 
-Co-founder at Super Mega Lab. Previously Shardeum, LifeImage, TomTom.
-
-### currently
-
-- Building tidbiits at Super Mega Lab
-- Claude skills, MCP servers, agent tooling
+Pssst I'm busy working
 
 ### when not working
 
